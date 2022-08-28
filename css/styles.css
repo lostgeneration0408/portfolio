@@ -313,36 +313,34 @@ body{
     margin: 0;
 }
 
-#navigation{
-    background-color:#e74c3c;
+#navigation {
+	background-color: #e74c3c;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
 }
-#navigation li{
-    padding: 0 10px;
-   
+
+#navigation li {
+	padding: 0 10px;
 }
 
-#navigation li a{
-    color: #fff;
+#navigation li a {
+	color: #fff;
 }
 
-a.navbar-brand,
-a.navbar-brand:hover
- {
-    color: #fff;
+.navbar-brand,
+.navbar-brand:hover {
+	color: #fff;
 }
 
-span.navbar-toggler-icon{
-    background: url(images/menu.png);
-    background-size: 100%;
-   
+span.navbar-toggler-icon {
+	background: url(/images/menu.png);
+	background-size: 100%;
 }
 
-.fixedNav #navigation{
-    position: fixed;
-    top: 0;
+.fixedNav #navigation {
+	position: fixed;
+	top: 0;
 }
 
 .loader{
