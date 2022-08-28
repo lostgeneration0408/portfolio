@@ -335,7 +335,7 @@ a.navbar-brand:hover
 }
 
 span.navbar-toggler-icon{
-    background: url(../images/menu.png);
+    background: url(/portfolio/images/menu.png);
     background-size: 100%;
    
 }
